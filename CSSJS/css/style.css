@@ -1,0 +1,29 @@
+header{
+	text-align: center;
+	font-weight: bold;
+}
+
+footer{
+	text-align: center;
+	font-style: italic;
+}
+
+content{
+	text-align: center;
+}
+
+ul{
+	background: white;
+}
+
+form{
+	padding: 15px
+}
+
+h3{
+	text-align: left;
+}
+
+div{
+	padding: 2px
+}

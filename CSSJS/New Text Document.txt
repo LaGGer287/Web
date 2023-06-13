@@ -1,0 +1,3 @@
+https://github.com/degouville/sublime-bootstrap4
+
+"auto_complete_triggers": [{"selector": "text.html", "characters": "b4"}]
