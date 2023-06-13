@@ -1,0 +1,25 @@
+header{
+	text-align: center;
+	font-weight: bold;
+}
+
+footer{
+	text-align: center;
+	font-style: italic;
+}
+
+content{
+	text-align: center;
+}
+
+ul{
+	background: white;
+}
+
+div{
+	padding: 5px
+}
+
+form{
+	padding: 10px;
+}
